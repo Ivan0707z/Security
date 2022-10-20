@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\lab-2ZI\lab-2ZI\bin\Debug\net6.0\lab-2ZI.exe
+C:\Users\Ivan\source\repos\lab-2ZI\lab-2ZI\bin\Debug\net6.0\lab-2ZI.deps.json
+C:\Users\Ivan\source\repos\lab-2ZI\lab-2ZI\bin\Debug\net6.0\lab-2ZI.runtimeconfig.json
+C:\Users\Ivan\source\repos\lab-2ZI\lab-2ZI\bin\Debug\net6.0\lab-2ZI.dll
+C:\Users\Ivan\source\repos\lab-2ZI\lab-2ZI\bin\Debug\net6.0\lab-2ZI.pdb
+C:\Users\Ivan\source\repos\lab-2ZI\lab-2ZI\obj\Debug\net6.0\lab-2ZI.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\lab-2ZI\lab-2ZI\obj\Debug\net6.0\lab-2ZI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\lab-2ZI\lab-2ZI\obj\Debug\net6.0\lab-2ZI.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\lab-2ZI\lab-2ZI\obj\Debug\net6.0\lab-2ZI.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\lab-2ZI\lab-2ZI\obj\Debug\net6.0\lab-2ZI.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\lab-2ZI\lab-2ZI\obj\Debug\net6.0\lab-2ZI.dll
+C:\Users\Ivan\source\repos\lab-2ZI\lab-2ZI\obj\Debug\net6.0\refint\lab-2ZI.dll
+C:\Users\Ivan\source\repos\lab-2ZI\lab-2ZI\obj\Debug\net6.0\lab-2ZI.pdb
+C:\Users\Ivan\source\repos\lab-2ZI\lab-2ZI\obj\Debug\net6.0\lab-2ZI.genruntimeconfig.cache
+C:\Users\Ivan\source\repos\lab-2ZI\lab-2ZI\obj\Debug\net6.0\ref\lab-2ZI.dll
